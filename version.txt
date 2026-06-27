@@ -1,2 +1,2 @@
-version=1.0.2
+version=1.0.0
 rbz_url=https://drive.google.com/file/d/1lZLNPUBJHWJ-_s8J-TbZuMvSMSrhoewP
