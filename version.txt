@@ -1,2 +1,2 @@
-version=1.0.0
-rbz_url=https://drive.google.com/file/d/1lZLNPUBJHWJ-_s8J-TbZuMvSMSrhoewP
+version=1.0.1
+rbz_url=https://github.com/PnToan/MN_Layout/blob/main/MN_layout.rbz
