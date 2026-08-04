@@ -1,2 +1,2 @@
-version=1.0.0
+version=1.0.2
 rbz_url=https://github.com/PnToan/mn_layout/blob/main/mn_layout.rbz
